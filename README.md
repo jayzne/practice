@@ -1,1 +1,2 @@
-push or pull, branch or merge... your choice
+push or pull, branch or merge... my choice
+
